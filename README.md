@@ -56,13 +56,13 @@ class AliSadiq:
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alisadiq-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisadiq-git&layout=compact&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alisadiq-git&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&custom_title=Code%20Statistics" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisadiq-git&theme=radical&hide_border=true" width="48%" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisadiq-git&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisadiq-git&layout=compact&theme=radical&hide_border=true&langs_count=5&hide=html,css&custom_title=Languages" width="45%" />
 </p>
 
 ## What I Do
